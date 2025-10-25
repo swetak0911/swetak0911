@@ -53,7 +53,7 @@
 
 ---
 
-<h2 align="center">🎃 Hacktoberfest & Open Source Badges</h2>
+<h2 align="center">🎃 Hacktoberfest 2025 & Open Source Badges</h2>
 
 <p align="center">
   <a href="https://holopin.io/@swetak0911">
